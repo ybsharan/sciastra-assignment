@@ -1,0 +1,103 @@
+{
+  "mentors": [
+    {
+      "jobid": "m1",
+      "name": "Sehasree Mohanta",
+      "university": "IACS",
+      "img": "https://sciastra.com/new_admin//teams/files/Sehasree_Mohanta.jpg"
+    },
+    {
+      "jobid": "m2",
+      "name": "Mandar Tornekar",
+      "university": "GMC Dhule",
+      "img": "https://sciastra.com/new_admin//teams/files/Kedar_Tornekar1.jpg"
+    },
+    {
+      "jobid": "m3",
+      "name": "Piyush Verma",
+      "university": "IISER Pune",
+      "img": "https://sciastra.com/new_admin//teams/files/Piyush_Verma_biology.jpg"
+    },
+    {
+      "jobid": "m4",
+      "name": "Sagar Rathore",
+      "university": "IISER Berhampur",
+      "img": "https://sciastra.com/new_admin//teams/files/Sagar_Rathore_physics.jpg"
+    },
+    {
+      "jobid": "m5",
+      "name": "Siddhart Bhatt",
+      "university": "IISER Thiruvananthapuram",
+      "img": "https://sciastra.com/new_admin//teams/files/Siddharth_Bhatt_physics.jpg"
+    },
+    {
+      "jobid": "m6",
+      "name": "Saumya Shisodiya",
+      "university": "HBTU Kanpur",
+      "img": "https://sciastra.com/new_admin//teams/files/Saumya_Shisodiya_mathematics.jpg"
+    },
+    {
+      "jobid": "m7",
+      "name": "Veena Sri",
+      "university": "IISER TVM",
+      "img": "https://sciastra.com/new_admin//teams/files/Veena_Sri_mathematics.jpg"
+    },
+    {
+      "jobid": "m8",
+      "name": "Saumya Prakash",
+      "university": "NISER",
+      "img": "https://sciastra.com/new_admin//teams/files/Saumya_Sharma_mathematics.png"
+    },
+    {
+      "jobid": "m9",
+      "name": "Parth Kumar Singh",
+      "university": "IIT, Jodhpur",
+      "img": "https://sciastra.com/new_admin//teams/files/Parth_Singh.jpg"
+    },
+    {
+      "jobid": "m10",
+      "name": "Mandar Tornekar",
+      "university": "GMC Dhule",
+      "img": "https://sciastra.com/new_admin//teams/files/Mandar_Tornekar_chemistry.jpg"
+    },
+    {
+      "jobid": "m11",
+      "name": "Shruti",
+      "university": "CEBS, Mumbai",
+      "img": "https://www.sciastra.com/new_admin/teams/files/SHRUTI_GUPTA_chemistry.jpg"
+    },
+    {
+      "jobid": "m12",
+      "name": "Mandar Tornekar",
+      "university": "GMC Dhule",
+      "img": "https://sciastra.com/new_admin//teams/files/Mandar_Tornekar_chemistry.jpg"
+    }
+  ],
+
+  "advisors": [
+    {
+      "jobid": "ma1",
+      "name": "Dr. Omkar",
+      "university": "Indian Institute of Technology, Madras ",
+      "bio": "Principal Project Scientist at Indian Institute of Technology, Madras",
+      "img": "https://www.sciastra.com/teams/dr_omkar.jpg",
+      "email": "mailto:support@sciastra.com"
+    },
+    {
+      "jobid": "ma2",
+      "name": "Akhil Tripathi",
+      "university": "NISER",
+      "bio": "Cofounder SciAstra, Mentor, Qualified NEST, Master's Student at NISER",
+      "img": "https://www.sciastra.com/teams/akhil_tripathi_niser.jpg",
+      "email": "mailto:support@sciastra.com"
+    },
+    {
+      "jobid": "ma3",
+      "name": "Vivek Dwivedi",
+      "university": "NISER",
+      "bio": "Founder SciAstra, Mentor, Qualified NEST, JEE advanced, Mains, Master's Student at NISER",
+      "img": "https://www.sciastra.com/teams/vivek_dwivedi_niser.jpg",
+      "email": "mailto:support@sciastra.com"
+    }
+  ]
+}
